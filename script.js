@@ -3,7 +3,7 @@
 *  @author    Jamshid Elmi
 *  @created   2022-07-11 17:47:00
 *  @tutorial  https://www.youtube.com/c/codingplay
-*  @source    https://JamshidElmi.github.io/Pig-Game-JS
+*  @demo      https://JamshidElmi.github.io/Pig-Game-JS
 */
 'use strict';
 // get elements
